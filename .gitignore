@@ -1,0 +1,4 @@
+.mirror-state/
+*.tmp
+*.log
+*.bak-*

@@ -1,0 +1,20 @@
+# FX Studio AI Marketplace
+# https://github.com/fernandoxavier02/fx-studio-ai
+
+# Metadata
+name: FX Studio AI
+version: 1.0.0
+author: Fernando Xavier
+description: Marketplace de skills e agentes para GitHub Copilot — Superpowers + Pipeline Orchestrator
+ssot_ref: https://github.com/obra/superpowers
+repo: https://github.com/fernandoxavier02/fx-studio-ai
+
+# Conteúdo
+skills_count: 14
+agents_count: 2
+instructions_count: 3
+prompts_count: 30
+
+# Compatibilidade
+platform: GitHub Copilot (VS Code)
+requires: VS Code >= 1.90, GitHub Copilot Chat extension
