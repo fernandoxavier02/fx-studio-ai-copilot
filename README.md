@@ -197,7 +197,7 @@ git pull
 ```
 fx-studio-ai-copilot/
 ├── assets/
-│   └── fx-studio-ai-logo.png
+│   └── branding/  # 6 logo variations + social preview
 ├── skills/                          ← 14 skills (SSOT verbatim)
 │   ├── using-superpowers/
 │   │   ├── SKILL.md
